@@ -1,1 +1,3 @@
 connection-string=Endpoint=sb://eh.servicebus.windows.net/;SharedAccessKeyName=sas;SharedAccessKey=ZIb/QY6xq4qonPVB7T2xLg2aeT3KbXmWq+AEhNtnVYc=;EntityPath=monitoring-test
+connection-string=Endpoint=sb://eh.servicebus02.windows.net/;SharedAccessKeyName=sas;SharedAccessKey=ZIb/QY6xq4qonPVB7T2xLg2aeT3KbXmWq+AEhNtnVYc=;EntityPath=monitoring-test
+
